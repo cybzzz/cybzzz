@@ -2,7 +2,7 @@
 
 ---
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=cybzzz)
+![image](https://github-readme-stats.vercel.app/api?username=cybzzz)
 
 <!--
 **cybzzz/cybzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
