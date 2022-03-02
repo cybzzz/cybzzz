@@ -1,4 +1,4 @@
-![![cybzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybzzz&show_icons=true&theme=github_dark)](https://github.com/cybzzz)
+[![cybzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybzzz&show_icons=true&theme=github_dark)](https://github.com/cybzzz)
 
 <!-- ![image](https://github-readme-stats.vercel.app/api?username=cybzzz) -->
 
